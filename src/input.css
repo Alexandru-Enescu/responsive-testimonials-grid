@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.h4-color {
+    color: hsla(0, 0%, 81%, 0.5);
+}
+
+.p-color {
+    color: hsla(0, 0%, 81%, 0.7);
+}
+
+.barlow-500 {
+    font-family: "Barlow Semi Condensed", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+.barlow-700 {
+    font-family: "Barlow Semi Condensed", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.background-quotation {
+    background-image: url("./images/bg-pattern-quotation.svg");
+    background-repeat: no-repeat;
+    background-position: 85% top;
+}
