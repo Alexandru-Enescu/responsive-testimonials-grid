@@ -8,6 +8,9 @@ Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 
+### Live Site URL 
+[https://alexandru-enescu.github.io/responsive-testimonials-grid/](https://alexandru-enescu.github.io/responsive-testimonials-grid/)
+
 ### Screenshot
 
 ![](screenshot.jpg)
@@ -18,13 +21,3 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-
-### Links
-
-- Solution URL: [https://github.com/Alexandru-Enescu/responsive-testimonials-grid](https://github.com/Alexandru-Enescu/responsive-testimonials-grid)
-- Live Site URL: [https://alexandru-enescu.github.io/responsive-testimonials-grid/](https://alexandru-enescu.github.io/responsive-testimonials-grid/)
-
-## Author
-
-- Frontend Mentor - [@Alexandru-Enescu](https://www.frontendmentor.io/profile/Alexandru-Enescu)
-- GitHub - [@Alexandru-Enescu](https://github.com/Alexandru-Enescu)
